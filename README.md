@@ -1,0 +1,1 @@
+FastApi + React small project
